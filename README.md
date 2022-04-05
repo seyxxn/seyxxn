@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![seyxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyxxn&theme=solarized-light&show_icons=true)
 
-[![seyxxn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seyxxn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seyxxn)
+<!-- [![seyxxn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seyxxn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seyxxn) -->

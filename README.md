@@ -37,9 +37,9 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:lucy9480@gmail.com"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="https://blog.naver.com/lucy9480">
+<!--     <a href="https://blog.naver.com/lucy9480">
       <img
       src="http://img.shields.io/badge/-Daily%20Blog-19CE60?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/lucy9480"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
+    </a> -->
 </div>

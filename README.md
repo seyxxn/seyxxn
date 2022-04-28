@@ -20,11 +20,25 @@ Here are some ideas to get you started:
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseyxxn&count_bg=%23ffcc00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=💛ᵔᴥᵔ💛ㅤhits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/seyxxn?style=social)
 
-<!-- ![seyxxn's github stats](https://github-readme-stats.vercel.app/api?username=seyxxn&show_icons=true) -->
-
+<!-- ![seyxxn's github stats](https://github-readme-stats.vercel.app/api?username=seyxxn&show_icons=true)
+ -->
+ 
 ![seyxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyxxn&theme=solarized-light&show_icons=true)
 
 <!-- [![seyxxn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seyxxn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seyxxn) -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucy9480)](https://solved.ac/lucy9480/)
+
+
+＼＿＿＿＿＿＿＿＿／<br>
+　　ｏ<br>
+　　 。<br>
+　　　｡<br>
+　　∧＿∧<br>
+　 (*　･ω･)<br>
+＿(__つ/￣￣￣/_<br>
+　　＼/　　　/<br>
+
 
 <div aling=center>
     <a href="https://instagram.com/seyxxn.p">

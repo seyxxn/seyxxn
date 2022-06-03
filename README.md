@@ -7,11 +7,6 @@
  
 ![seyxxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyxxn&theme=solarized-light&show_icons=true)
 
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucy9480)](https://solved.ac/lucy9480/)
-
-
 ＼＿＿＿＿＿＿＿＿／<br>
 　　ｏ<br>
 　　 。<br>
